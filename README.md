@@ -1,4 +1,5 @@
 # Python-Connection-to-Database
+Is an application that i learned how Python application can work with database
 
 **How-to-connect-to-MongoDb-from-Python**
 
